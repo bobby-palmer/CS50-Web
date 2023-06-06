@@ -1,0 +1,12 @@
+[submodule "Ecommerce"]
+	path = Ecommerce
+	url = https://github.com/bobby-palmer/Ecommerce
+[submodule "Mail"]
+	path = Mail
+	url = https://github.com/bobby-palmer/Mail
+[submodule "Network"]
+	path = Network
+	url = https://github.com/bobby-palmer/Network
+[submodule "Encyclopedia"]
+	path = Encyclopedia
+	url = https://github.com/bobby-palmer/Encyclopedia
